@@ -246,15 +246,16 @@ border-radius: 10px;
   border: none;
   padding: 1rem 3rem;
   border-radius: 10px;
-  background-color: rgb(184, 42, 42);
-  color: #d8dee4;
+  color: rgb(32, 31, 31);
   font-weight: bold;
   transition: background-color 0.3s;
+  border: 1px solid green;
 }
 
 .book-now:hover{
-  background-color: green;
+  background-color: #0c8599;
   cursor: pointer;
+  color: white;
 }
 
 .service img{
